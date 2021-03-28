@@ -1,4 +1,4 @@
-lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) | Eng
+lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) | Eng.
 
 # Welcome to my SPACE
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamjugood%2Fhit-counter&count_bg=%23DB8230&title_bg=%23555555&icon=gravatar.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;![follower](https://img.shields.io/github/followers/namjugood?color=DB8230&label=Follwer&logo=GitHub&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;![like](https://img.shields.io/github/stars/namjugood?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=LIKES&logoColor=%23FF0000&style=social)
