@@ -1,4 +1,4 @@
-언어 : 한국어 | [English](https://github.com/namjugood/namjugood/blob/9ae48a6864bc7a7eb4db98d100d99f56a2768cfd/README.md)
+언어 : 한국어 | [English](https://github.com/namjugood/namjugood/blob/master/README.md)
 
 # 제 공간에 오신 것을 환영합니다
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamjugood%2Fhit-counter&count_bg=%23DB8230&title_bg=%23555555&icon=gravatar.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;![follower](https://img.shields.io/github/followers/namjugood?color=DB8230&label=Follwer&logo=GitHub&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;![like](https://img.shields.io/github/stars/namjugood?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=LIKES&logoColor=%23FF0000&style=social)
