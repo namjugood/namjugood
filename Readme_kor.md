@@ -41,11 +41,11 @@ Github를 시작하게 된 것도 개발자의 길을 한 발 딛으며 시작�
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=goodnamju)](https://solved.ac/goodnamju)
 
 ---
-## 4. 📫 링크
+## 5. 📫 링크
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/good.nj)](https://www.instagram.com/good.nj) &nbsp;[![Navermail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:namjugood@naver.com)](mailto:namjugood@naver.com) &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namjugood@gmail.com)](mailto:namjugood@gmail.com)
 ---
-## 5. 저장소 상태
+## 6. 저장소 상태
 
 |저장소 이름|사용된 언어개수|가장 많이 사용된언어|저장용량|주당 커밋횟수|마지막 커밋|
 |:---|:---|:---|:---|:---|:---|
