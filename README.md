@@ -17,7 +17,7 @@ lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) |
 -->
 
 ---
-## 1. :wine_glass:Intro
+## 1. :wine_glass: Intro
 __Thanks for your visiting.__<br>
 I am preparing to be a junior back-end developer. <br>
 Actually, I turned my job caused by COVID-19. <br>
@@ -45,7 +45,7 @@ Truely, eveything what I learned isn't perfect but I'm trying to practice them m
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/good.nj)](https://www.instagram.com/good.nj) &nbsp;[![Navermail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:namjugood@naver.com)](mailto:namjugood@naver.com) &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namjugood@gmail.com)](mailto:namjugood@gmail.com)
 ---
-## 6. Repository status
+## 6. :factory: Repository status
 
 |Repo-name|LNG CNT|Top Language|Repo-size|Commit in Week|Last commit|
 |:---|:---|:---|:---|:---|:---|
