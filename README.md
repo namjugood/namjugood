@@ -17,7 +17,7 @@ lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) |
 -->
 
 ---
-## :wine_glass:1. Intro
+## 1. :wine_glass:Intro
 __Thanks for your visiting.__<br>
 I am preparing to be a junior back-end developer. <br>
 Actually, I turned my job caused by COVID-19. <br>
