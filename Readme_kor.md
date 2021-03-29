@@ -17,7 +17,7 @@
 -->
 
 ---
-## 1. :wine_glass:소개
+## 1. :wine_glass: 소개
 __방문해 주셔서 감사합니다__<br>
 저는 백엔드 개발자가 되고자 준비중입니다. <br>
 코로나19가 제 직업을 바꾸는 계기가 되었습니다. <br>
@@ -37,7 +37,7 @@ Github를 시작하게 된 것도 개발자의 길을 한 발 딛으며 시작�
 [![namjugood's GitHub stats](https://github-readme-stats.vercel.app/api?username=namjugood&show_icons=true&theme=merko)](https://github.com/namjugood/)
 
 ---
-## 4. :scroll:백준 알고리즘 티어
+## 4. :scroll: 백준 알고리즘 티어
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=goodnamju)](https://solved.ac/goodnamju)
 
 ---
@@ -45,7 +45,7 @@ Github를 시작하게 된 것도 개발자의 길을 한 발 딛으며 시작�
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/good.nj)](https://www.instagram.com/good.nj) &nbsp;[![Navermail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:namjugood@naver.com)](mailto:namjugood@naver.com) &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namjugood@gmail.com)](mailto:namjugood@gmail.com)
 ---
-## 6. 저장소 상태
+## 6. :factory: 저장소 상태
 
 |저장소 이름|사용된 언어개수|가장 많이 사용된언어|저장용량|주당 커밋횟수|마지막 커밋|
 |:---|:---|:---|:---|:---|:---|
