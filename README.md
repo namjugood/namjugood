@@ -37,11 +37,15 @@ Truely, eveything what I learned isn't perfect but I'm trying to practice them m
 [![namjugood's GitHub stats](https://github-readme-stats.vercel.app/api?username=namjugood&show_icons=true&theme=merko)](https://github.com/namjugood/)
 
 ---
-## 4. 📫 Links
+## 4. :scroll:Baekjoon Algorithm tier
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=goodnamju)](https://solved.ac/goodnamju)
+
+---
+## 5. 📫 Links
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/good.nj)](https://www.instagram.com/good.nj) &nbsp;[![Navermail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:namjugood@naver.com)](mailto:namjugood@naver.com) &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namjugood@gmail.com)](mailto:namjugood@gmail.com)
 ---
-## 5. Repository status
+## 6. Repository status
 
 |Repo-name|LNG CNT|Top Language|Repo-size|Commit in Week|Last commit|
 |:---|:---|:---|:---|:---|:---|
