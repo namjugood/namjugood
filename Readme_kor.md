@@ -31,7 +31,7 @@ Github를 시작하게 된 것도 개발자의 길을 한 발 딛으며 시작�
 ![java](https://img.shields.io/badge/Java-★★☆☆☆-007396?logo=Java&logoColor=007396)&nbsp;&nbsp;&nbsp;![Jupyter](https://img.shields.io/badge/Jupyter-★★☆☆☆-F37626?logo=Python&logoColor=F37626)
 - 다른 언어<br>
 ![CSS](https://img.shields.io/badge/CSS3-★★☆☆☆-1572B6?logo=CSS3&logoColor=1572B6)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-★★☆☆☆-E34F26?logo=Html5&logoColor=E34F26)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-★★☆☆☆-F7DF1E?logo=JavaScript&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;![SQL](https://img.shields.io/badge/SQL-★★☆☆☆-F80000?logo=Oracle&logoColor=F80000)&nbsp;&nbsp;&nbsp;![Jquery](https://img.shields.io/badge/JQuery-★☆☆☆☆-0769AD?logo=JQuery&logoColor=0769AD)<br>
-![R_program](https://img.shields.io/badge/R_program-★☆☆☆☆-0769AD?logo=R&logoColor=276DC3)
+![R_program](https://img.shields.io/badge/R_program-★☆☆☆☆-0769AD?logo=R&logoColor=276DC3)![Node.js](https://img.shields.io/badge/Node.js-★☆☆☆☆-339933?logo=Node.js&logoColor=339933)
 
 ---
 ## 3. :bar_chart: GitHub Stats
