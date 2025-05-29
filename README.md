@@ -19,10 +19,10 @@ lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) |
 ---
 ## 1. 🌱 Skills
 - Main Languages<br>
-![java](https://img.shields.io/badge/Java-★★★☆☆-007396?logo=Java&logoColor=)
+![java](https://img.shields.io/badge/Java-★★★☆☆-007396?logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?logo=JavaScript&logoColor=F7DF1E)
 ![AngularJS1](https://img.shields.io/badge/AngularJS1-★★★★☆-DD0031?logo=AngularJS&logoColor=DD0031)
-![Python](https://img.shields.io/badge/Python-★★☆☆☆-3776AB?&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-★★☆☆☆-3776AB?&logo=Python&logoColor=3776AB)
 - Front end<br>
 ![HTML5](https://img.shields.io/badge/HTML5-★★★☆☆-E34F26?logo=Html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-★★★☆☆-1572B6?logo=CSS3&logoColor=1572B6)
@@ -38,10 +38,9 @@ lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) |
 - SQL<br>
 ![ORACLE](https://img.shields.io/badge/Oracle-★★★☆☆-F80000?logo=ORACLE&logoColor=F80000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-★☆☆☆☆-47A248?logo=MongoDB&logoColor=47A248)
-![MongoDB](https://img.shields.io/badge/MongoDB-★☆☆☆☆-47A248?logo=MongoDB&logoColor=47A248)
 
 - Others<br>
-![Jupyter](https://img.shields.io/badge/Jupyter-★★☆☆☆-F37626?logo=Python&logoColor=F37626)
+![Jupyter](https://img.shields.io/badge/Jupyter-★★☆☆☆-F37626?logo=Jupyter&logoColor=F37626)
 ![R_program](https://img.shields.io/badge/R_program-★☆☆☆☆-0769AD?logo=R&logoColor=276DC3)
 
 ---
