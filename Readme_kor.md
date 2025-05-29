@@ -21,12 +21,12 @@ lang : Kor | [Eng](https://github.com/namjugood/namjugood/blob/master/README.md)
 - 주 개발언어<br>
 ![java](https://img.shields.io/badge/Java-★★★☆☆-007396?logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?logo=JavaScript&logoColor=F7DF1E)
-![AngularJS1](https://img.shields.io/badge/AngularJS-★★★★☆-DD0031?logo=AngularJS&logoColor=DD0031)
 ![Python](https://img.shields.io/badge/Python-★★☆☆☆-3776AB?&logo=Python&logoColor=3776AB)
 - 프론트엔드<br>
 ![HTML5](https://img.shields.io/badge/HTML5-★★★☆☆-E34F26?logo=Html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-★★★☆☆-1572B6?logo=CSS3&logoColor=1572B6)
 ![Jquery](https://img.shields.io/badge/JQuery-★★★☆☆-0769AD?logo=JQuery&logoColor=0769AD)
+![React](https://img.shields.io/badge/React-★☆☆☆☆-61DAFB?logo=React&logoColor=61DAFB)
 - 런타임<br>
 ![JRE](https://img.shields.io/badge/JRE-★★★☆☆-1572B6?logo=JRE&logoColor=1572B6)
 ![Node.js](https://img.shields.io/badge/Node.js-★★☆☆☆-339933?logo=Node.js&logoColor=339933)
@@ -34,7 +34,8 @@ lang : Kor | [Eng](https://github.com/namjugood/namjugood/blob/master/README.md)
 ![Spring](https://img.shields.io/badge/Spring-★★★★☆-6DB33F?logo=spring&logoColor=6DB33F)
 ![Springboot](https://img.shields.io/badge/Springboot-★★☆☆☆-229933?logo=springboot&logoColor=229933)
 ![Django](https://img.shields.io/badge/Django-★☆☆☆☆-092E20?logo=Django&logoColor=092E20)
-![React](https://img.shields.io/badge/React-★☆☆☆☆-61DAFB?logo=React&logoColor=61DAFB)
+![AngularJS1](https://img.shields.io/badge/AngularJS-★★★☆☆-DD0031?logo=AngularJS&logoColor=DD0031)
+![IONIC](https://img.shields.io/badge/Ionic-★★★☆☆-%233880FF?logo=Ionic&logoColor=%233880FF)
 - SQL<br>
 ![ORACLE](https://img.shields.io/badge/Oracle-★★★☆☆-F80000?logo=Oracle&logoColor=F80000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-★☆☆☆☆-47A248?logo=MongoDB&logoColor=47A248)
