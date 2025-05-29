@@ -1,4 +1,4 @@
-lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) | Eng.
+lang : Kor | [Eng](https://github.com/namjugood/namjugood/blob/master/README.md)
 
 # Welcome to my SPACE
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamjugood%2Fhit-counter&count_bg=%23DB8230&title_bg=%23555555&icon=gravatar.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;![follower](https://img.shields.io/github/followers/namjugood?color=DB8230&label=Follwer&logo=GitHub&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;![like](https://img.shields.io/github/stars/namjugood?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=LIKES&logoColor=%23FF0000&style=social)
@@ -19,10 +19,10 @@ lang : [Kor](https://github.com/namjugood/namjugood/blob/master/Readme_kor.md) |
 ---
 ## 1. 🌱 스킬
 - 주 개발언어<br>
-![java](https://img.shields.io/badge/Java-★★★☆☆-007396?logo=Java&logoColor=)
+![java](https://img.shields.io/badge/Java-★★★☆☆-007396?logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?logo=JavaScript&logoColor=F7DF1E)
 ![AngularJS1](https://img.shields.io/badge/AngularJS-★★★★☆-DD0031?logo=AngularJS&logoColor=DD0031)
-![Python](https://img.shields.io/badge/Python-★★☆☆☆-3776AB?&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-★★☆☆☆-3776AB?&logo=Python&logoColor=3776AB)
 - 프론트엔드<br>
 ![HTML5](https://img.shields.io/badge/HTML5-★★★☆☆-E34F26?logo=Html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-★★★☆☆-1572B6?logo=CSS3&logoColor=1572B6)
