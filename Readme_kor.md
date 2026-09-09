@@ -120,10 +120,13 @@ lang : Kor | [Eng](https://github.com/namjugood/namjugood/blob/master/README.md)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namjugood&show_icons=true&theme=merko&hide_border=true" alt="namjugood's GitHub stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=namjugood&theme=merko&hide_border=true" alt="namjugood's GitHub streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namjugood&layout=compact&theme=merko&hide_border=true" alt="namjugood's top languages" width="49%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namjugood/namjugood/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namjugood/namjugood/output/github-contribution-grid-snake.svg" />
+  <img alt="namjugood's contribution snake animation" src="https://raw.githubusercontent.com/namjugood/namjugood/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
